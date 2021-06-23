@@ -3,7 +3,7 @@ import {Navbar} from 'react-bootstrap';
 
 
 
-export default function index() {
+export default function Nav() {
     return (
         <Navbar>
             <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
